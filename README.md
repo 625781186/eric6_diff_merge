@@ -19,6 +19,29 @@ def main():
 if __name__ == "__main__":
     main()
 ```
+### input :
+speedtext1.txt
+```python
+
+== Capital-Saratoga ==
+aaa
+bbb
+ccc
+ddd
+
+
+
+```
+speedtext2.txt
+```python
+== Capital-Saratoga ==
+abc
+bbb
+ccc
+
+
+```
+
 ### output : result.txt
 ```
 --- ./speedtext1.txt	Thu Dec 12 03:08:59 2019
@@ -35,4 +58,4 @@ if __name__ == "__main__":
 
 ```
 #### the same module:
-- https://github.com/diff-match-patch-python/diff-match-patch
+If you found the same module, please inform me in issue, thanks!
